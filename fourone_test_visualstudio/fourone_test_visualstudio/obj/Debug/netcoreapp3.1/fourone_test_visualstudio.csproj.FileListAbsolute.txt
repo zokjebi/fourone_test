@@ -1,0 +1,14 @@
+C:\Users\fourone\Documents\GIT\fourone_test\fourone_test_visualstudio\fourone_test_visualstudio\bin\Debug\netcoreapp3.1\fourone_test_visualstudio.exe
+C:\Users\fourone\Documents\GIT\fourone_test\fourone_test_visualstudio\fourone_test_visualstudio\bin\Debug\netcoreapp3.1\fourone_test_visualstudio.deps.json
+C:\Users\fourone\Documents\GIT\fourone_test\fourone_test_visualstudio\fourone_test_visualstudio\bin\Debug\netcoreapp3.1\fourone_test_visualstudio.runtimeconfig.json
+C:\Users\fourone\Documents\GIT\fourone_test\fourone_test_visualstudio\fourone_test_visualstudio\bin\Debug\netcoreapp3.1\fourone_test_visualstudio.runtimeconfig.dev.json
+C:\Users\fourone\Documents\GIT\fourone_test\fourone_test_visualstudio\fourone_test_visualstudio\bin\Debug\netcoreapp3.1\fourone_test_visualstudio.dll
+C:\Users\fourone\Documents\GIT\fourone_test\fourone_test_visualstudio\fourone_test_visualstudio\bin\Debug\netcoreapp3.1\fourone_test_visualstudio.pdb
+C:\Users\fourone\Documents\GIT\fourone_test\fourone_test_visualstudio\fourone_test_visualstudio\obj\Debug\netcoreapp3.1\fourone_test_visualstudio.csproj.AssemblyReference.cache
+C:\Users\fourone\Documents\GIT\fourone_test\fourone_test_visualstudio\fourone_test_visualstudio\obj\Debug\netcoreapp3.1\fourone_test_visualstudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fourone\Documents\GIT\fourone_test\fourone_test_visualstudio\fourone_test_visualstudio\obj\Debug\netcoreapp3.1\fourone_test_visualstudio.AssemblyInfoInputs.cache
+C:\Users\fourone\Documents\GIT\fourone_test\fourone_test_visualstudio\fourone_test_visualstudio\obj\Debug\netcoreapp3.1\fourone_test_visualstudio.AssemblyInfo.cs
+C:\Users\fourone\Documents\GIT\fourone_test\fourone_test_visualstudio\fourone_test_visualstudio\obj\Debug\netcoreapp3.1\fourone_test_visualstudio.csproj.CoreCompileInputs.cache
+C:\Users\fourone\Documents\GIT\fourone_test\fourone_test_visualstudio\fourone_test_visualstudio\obj\Debug\netcoreapp3.1\fourone_test_visualstudio.dll
+C:\Users\fourone\Documents\GIT\fourone_test\fourone_test_visualstudio\fourone_test_visualstudio\obj\Debug\netcoreapp3.1\fourone_test_visualstudio.pdb
+C:\Users\fourone\Documents\GIT\fourone_test\fourone_test_visualstudio\fourone_test_visualstudio\obj\Debug\netcoreapp3.1\fourone_test_visualstudio.genruntimeconfig.cache

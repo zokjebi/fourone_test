@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "fourone_test_visualstudio/1.0.0": {
+        "runtime": {
+          "fourone_test_visualstudio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fourone_test_visualstudio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
