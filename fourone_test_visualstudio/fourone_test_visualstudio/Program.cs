@@ -7,6 +7,8 @@ namespace fourone_test_visualstudio
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            
+            Console.WriteLine("Hello World!_2");
         }
     }
 }
