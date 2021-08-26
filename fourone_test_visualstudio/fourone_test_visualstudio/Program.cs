@@ -9,16 +9,6 @@ namespace fourone_test_visualstudio
             Console.WriteLine("Hello World!");
             
             Console.WriteLine("Hello World!_2");
-            
-            Console.WriteLine("Hello World!_3");
-            
-            Console.WriteLine("Hello World!_4");
-            
-            Console.WriteLine("Hello World!_5");
-            
-            Console.WriteLine("Hello World!_6");
-            
-            Console.WriteLine("Hello World!_7");
         }
     }
 }
