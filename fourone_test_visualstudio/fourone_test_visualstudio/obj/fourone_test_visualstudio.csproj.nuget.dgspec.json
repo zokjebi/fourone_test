@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fourone\\Documents\\GIT\\fourone_test\\fourone_test_visualstudio\\fourone_test_visualstudio\\fourone_test_visualstudio.csproj": {}
+    "C:\\Users\\fourone\\Documents\\GIT\\fourone_test_test\\fourone_test_visualstudio\\fourone_test_visualstudio\\fourone_test_visualstudio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fourone\\Documents\\GIT\\fourone_test\\fourone_test_visualstudio\\fourone_test_visualstudio\\fourone_test_visualstudio.csproj": {
+    "C:\\Users\\fourone\\Documents\\GIT\\fourone_test_test\\fourone_test_visualstudio\\fourone_test_visualstudio\\fourone_test_visualstudio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fourone\\Documents\\GIT\\fourone_test\\fourone_test_visualstudio\\fourone_test_visualstudio\\fourone_test_visualstudio.csproj",
+        "projectUniqueName": "C:\\Users\\fourone\\Documents\\GIT\\fourone_test_test\\fourone_test_visualstudio\\fourone_test_visualstudio\\fourone_test_visualstudio.csproj",
         "projectName": "fourone_test_visualstudio",
-        "projectPath": "C:\\Users\\fourone\\Documents\\GIT\\fourone_test\\fourone_test_visualstudio\\fourone_test_visualstudio\\fourone_test_visualstudio.csproj",
+        "projectPath": "C:\\Users\\fourone\\Documents\\GIT\\fourone_test_test\\fourone_test_visualstudio\\fourone_test_visualstudio\\fourone_test_visualstudio.csproj",
         "packagesPath": "C:\\Users\\fourone\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fourone\\Documents\\GIT\\fourone_test\\fourone_test_visualstudio\\fourone_test_visualstudio\\obj\\",
+        "outputPath": "C:\\Users\\fourone\\Documents\\GIT\\fourone_test_test\\fourone_test_visualstudio\\fourone_test_visualstudio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fourone\\AppData\\Roaming\\NuGet\\NuGet.Config",
